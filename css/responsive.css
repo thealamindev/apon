@@ -1,0 +1,298 @@
+@media (max-width: 575.98px) { 
+
+    #client_part{
+        display: none;
+    }
+
+    .navbar-toggler i{
+        color: #ffffff;
+    }
+
+    .navbar-collapse {
+        text-align: center;
+        background: rgba(0, 0, 0, .9);
+        padding: 20px 0;
+    }
+
+    nav .navbar-nav .nav-item {
+        margin-left: 0;
+    }
+
+    nav .navbar-nav .nav-link:hover {
+        color: #ffffff !important;
+        transform: scale(1);
+    }
+
+    .navbar-toggler {
+        border: 0;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    #banner .overlay {
+        padding: 180px 0 60px !important;
+    }
+
+    #banner .overlay .main h1 {
+        font-size: 40px;
+        width: auto;
+    }
+
+    #banner .overlay .main p {
+        font-size: 15px;
+        width: auto;
+        margin: 10px auto 20px;
+    }
+
+    #counter_part .main .text h3 {
+        text-align: center;
+    }
+
+    #counter_part .main .text h2 {
+        font-size: 32px;
+        line-height: 36px;
+        text-align: center;
+        margin: 20px 0 30px;
+    }
+
+    #counter_part .main .right{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #counter_part .main .right .counter {
+        margin: 20px 0 0;
+        text-align: center;
+    }
+
+    #counter_part .main {
+        padding: 35px 20px !important;
+        border-radius: 10px;
+    }
+
+    .title h2 {
+        font-size: 26px;
+        width: auto !important;
+    }
+
+    .title p {
+        width: auto !important;
+    }
+
+    #service_part .title p {
+        width: auto;
+    }
+
+    #agency_part .title h2 {
+        padding: 0 50px;
+        line-height: 36px;
+    }
+
+    #agency_part .agency-01 p {
+        width: auto;
+    }
+
+    #agency_part .agency_work {
+        display: none;
+    }
+
+    #form_part .left h2 {
+        font-size: 32px;
+        line-height: 43px;
+        width: auto;
+    }
+
+    #form_part .left p {
+        font-size: 15px;
+        width: auto;
+    }
+
+    #form_part {
+        padding: 70px 0;
+        margin-top: 50px;
+    }
+
+
+    #form_part .form {
+        width: 100%;
+        padding: 45px 20px;
+        border-radius: 10px;
+    }
+
+    #form_part .form form .input-field {
+        width: 100%;
+        padding: 12px 15px !important;
+        font-size: 15px;
+        border-radius: 10px;
+    }
+
+    #contact_part .left{
+        text-align: center;
+    }
+
+    #contact_part p {
+        width: auto;
+        padding: 0 40px;
+        margin: 30px 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+ }
+
+@media (max-width: 767.98px) { 
+    #client_part{
+        display: none;
+    }
+
+    .navbar-toggler i{
+        color: #ffffff;
+    }
+
+    .navbar-collapse {
+        text-align: center;
+        background: rgba(0, 0, 0, .9);
+        padding: 20px 0;
+    }
+
+    nav .navbar-nav .nav-item {
+        margin-left: 0;
+    }
+
+    nav .navbar-nav .nav-link:hover {
+        color: #ffffff !important;
+        transform: scale(1);
+    }
+
+    .navbar-toggler {
+        border: 0;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    #banner .overlay {
+        padding: 180px 0 60px !important;
+    }
+
+    #banner .overlay .main h1 {
+        font-size: 40px;
+        width: auto;
+    }
+
+    #banner .overlay .main p {
+        font-size: 15px;
+        width: auto;
+        margin: 10px auto 20px;
+    }
+
+    #counter_part .main .text h3 {
+        text-align: center;
+    }
+
+    #counter_part .main .text h2 {
+        font-size: 32px;
+        line-height: 36px;
+        text-align: center;
+        margin: 20px 0 30px;
+    }
+
+    #counter_part .main .right{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #counter_part .main .right .counter {
+        margin: 20px 0 0;
+        text-align: center;
+    }
+
+    #counter_part .main {
+        padding: 35px 20px !important;
+        border-radius: 10px;
+    }
+
+    .title h2 {
+        font-size: 26px;
+        width: auto !important;
+    }
+
+    .title p {
+        width: auto !important;
+    }
+
+    #service_part .title p {
+        width: auto;
+    }
+
+    #agency_part .title h2 {
+        padding: 0 50px;
+        line-height: 36px;
+    }
+
+    #agency_part .agency-01 p {
+        width: auto;
+    }
+
+    #agency_part .agency_work {
+        display: none;
+    }
+
+    #form_part .left h2 {
+        font-size: 32px;
+        line-height: 43px;
+        width: auto;
+    }
+
+    #form_part .left p {
+        font-size: 15px;
+        width: auto;
+    }
+
+    #form_part {
+        padding: 70px 0;
+        margin-top: 50px;
+    }
+
+
+    #form_part .form {
+        width: 100%;
+        padding: 45px 20px;
+        border-radius: 10px;
+    }
+
+    #form_part .form form .input-field {
+        width: 100%;
+        padding: 12px 15px !important;
+        font-size: 15px;
+        border-radius: 10px;
+    }
+
+    #contact_part .left{
+        text-align: center;
+    }
+
+    #contact_part p {
+        width: auto;
+        padding: 0 40px;
+        margin: 30px 0;
+    }
+ }
+
+@media (max-width: 991.98px) {  }
+
+@media (max-width: 1199.98px) {  }
+
+@media (max-width: 1399.98px) {  }
